@@ -1,0 +1,7 @@
+.venv/
+airflow_home/
+src/
+data/
+logs/
+report/
+sql/

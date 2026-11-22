@@ -1,0 +1,7 @@
+apache-airflow==3.2.1
+selenium==4.27.1
+beautifulsoup4==4.12.3
+lxml==5.3.0
+pandas==2.2.2
+numpy==1.26.4
+pendulum==3.2.0
